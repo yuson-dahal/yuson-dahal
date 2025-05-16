@@ -1,7 +1,13 @@
-- 👋 Hi, I’m @yuson-dahal
-- 👀 I’m interested in Coding and Physics
-- 🌱 I’m currently a student and code in my freetime
-- 💞️ I’m looking to collaborate on many projects
+# Hi, I'm Yuson 👋
+
+🎓 High School graduate with Research Experience in Data Analytics (3 co-authored papers)  
+📊 Interned 1.5 years at Nepal Academy of Science and Technology as Data Analyst  
+📚 Currently taking: Harvard CS50 & Coursera ML Specialization by Stanford and DeepLearning.AI  
+🚀 Interested in AI/ML, data-driven research, and impactful projects  
+
+### 🔧 Tools & Skills
+Python, scikit-learn, pandas, matplotlib, Jupyter, SQL, Git, Linux  
+Learning: PyTorch, TensorFlow, Flask
 
 
 <!---
